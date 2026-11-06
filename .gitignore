@@ -1,0 +1,5 @@
+/target
+.DS_Store
+
+# Local recordings from the desk: they hold the host's MAC address.
+/prove/
